@@ -1,8 +1,8 @@
 # DWM Lab Assignments
 
-**Name:** Ayush Gupte
-**PRN:** 22070521120
-**Section:** C
+**Name:** Ayush Gupte 
+**PRN:** 22070521120  
+**Section:** C 
 
 ---
 
