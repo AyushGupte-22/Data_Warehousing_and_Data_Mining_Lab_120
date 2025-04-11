@@ -1,5 +1,3 @@
-# Creating a proper README.md file content
-readme_content = """
 # DWM Lab Assignments
 
 This repository contains lab assignments for the **Data Warehousing and Mining (DWM)** course.
